@@ -6,8 +6,3 @@ for (let i = palavra.length - 1; i >= 0; i--) {
 }
 
 alert(palavraInvertida);
-
-/*
-const palavra = "leonardo";
-console.log(palavra.length);
-*/
